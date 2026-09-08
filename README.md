@@ -7,6 +7,7 @@ Problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ssb171717/Work/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ssb171717/Work/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/ssb171717/Work/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ssb171717/Work/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ssb171717/Work/tree/master/0128-longest-consecutive-sequence) |
@@ -39,6 +40,7 @@ Problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ssb171717/Work/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/ssb171717/Work/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -68,4 +70,8 @@ Problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ssb171717/Work/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ssb171717/Work/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
