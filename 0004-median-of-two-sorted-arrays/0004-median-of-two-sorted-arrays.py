@@ -28,9 +28,9 @@ class Solution:
                 right2=nums2[j]
             if left1<=right2 and left2<=right1:
                 max_Left=max(left1,left2)
-                max_Right=min(right1,right2)
+                min_Right=min(right1,right2)
                 if (m+n)%2==0:
-                    return (max_Left+max_Right)/2
+                    return (max_Left+min_Right)/2
                 else:
                     return max_Left
             elif left1>right2:
