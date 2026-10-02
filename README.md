@@ -30,6 +30,7 @@ Problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ssb171717/Work/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ssb171717/Work/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/ssb171717/Work/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/ssb171717/Work/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ssb171717/Work/tree/master/0242-valid-anagram) |
 ## Sorting
