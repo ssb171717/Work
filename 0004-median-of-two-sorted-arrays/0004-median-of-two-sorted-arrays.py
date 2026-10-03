@@ -27,14 +27,13 @@ class Solution:
             else:
                 right2=nums2[j]
             if left1<=right2 and left2<=right1:
-                max_Left=max(left1,left2)
-                min_Right=min(right1,right2)
+                maxLeft=max(left1,left2)
+                minRight=min(right1,right2)
                 if (m+n)%2==0:
-                    return (max_Left+min_Right)/2
+                    return (maxLeft+minRight)/2
                 else:
-                    return max_Left
-            elif left1>right2:
-                right=i-1
-            else:
+                    return maxLeft
+            elif left2>right1:
                 left=i+1
-            
+            else:
+                right=i-1
